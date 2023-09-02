@@ -1,0 +1,219 @@
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebAppSchoolManagement.dll.config
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebAppSchoolManagement.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebAppSchoolManagement.pdb
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csc.exe
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csc.exe.config
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csc.rsp
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csi.exe
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csi.exe.config
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csi.rsp
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.AppContext.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Collections.Immutable.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Console.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Globalization.Calendars.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.Compression.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.FileSystem.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Net.Http.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Net.Sockets.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Reflection.Metadata.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.ValueTuple.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.XPath.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\vbc.exe
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\vbc.exe.config
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\vbc.rsp
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\VBCSCompiler.exe
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\VBCSCompiler.exe.config
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Antlr3.Runtime.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\AspNet.ScriptManager.jQuery.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.Web.Infrastructure.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Newtonsoft.Json.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\System.Web.Optimization.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebGrease.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\System.Web.Optimization.xml
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Newtonsoft.Json.xml
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Antlr3.Runtime.pdb
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.csproj.AssemblyReference.cache
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.csproj.CopyComplete
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.dll
+F:\Training Stuff\Database_ASP.NET\Practice Project\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.pdb
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebAppSchoolManagement.dll.config
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebAppSchoolManagement.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebAppSchoolManagement.pdb
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csc.exe
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csc.exe.config
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csc.rsp
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csi.exe
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csi.exe.config
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csi.rsp
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Console.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\vbc.exe
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\vbc.exe.config
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\vbc.rsp
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Antlr3.Runtime.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Newtonsoft.Json.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\System.Web.Optimization.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebGrease.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\System.Web.Optimization.xml
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Newtonsoft.Json.xml
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.csproj.AssemblyReference.cache
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.csproj.CopyComplete
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.dll
+C:\Users\Amans\Downloads\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.pdb
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebAppSchoolManagement.dll.config
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebAppSchoolManagement.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebAppSchoolManagement.pdb
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csc.exe
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csc.exe.config
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csc.rsp
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csi.exe
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csi.exe.config
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\csi.rsp
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.AppContext.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Console.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Globalization.Calendars.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.Compression.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Net.Http.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Net.Sockets.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.ValueTuple.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.XPath.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\vbc.exe
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\vbc.exe.config
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\vbc.rsp
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\VBCSCompiler.exe
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Antlr3.Runtime.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\AspNet.ScriptManager.jQuery.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Newtonsoft.Json.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\System.Web.Optimization.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\WebGrease.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\System.Web.Optimization.xml
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Newtonsoft.Json.xml
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Antlr3.Runtime.pdb
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.csproj.AssemblyReference.cache
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.csproj.CoreCompileInputs.cache
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.csproj.CopyComplete
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.dll
+D:\Phase2\Practice Project\Section 5\Section 5\WebAppSchoolManagement\WebAppSchoolManagement\obj\Debug\WebAppSchoolManagement.pdb
